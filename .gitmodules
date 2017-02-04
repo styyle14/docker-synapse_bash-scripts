@@ -1,0 +1,3 @@
+[submodule "build/docker-synapse"]
+	path = build/docker-synapse
+	url = https://github.com/styyle14/docker-synapse.git
